@@ -1,5 +1,6 @@
 # Hi I'm Dheeraj👋
 
+![](portfolio img.jpg)
 
 - 🔭 I’m currently working on Neural Networking and Data Analysis projects
 - 🌱 I’m currently learning more about Computer Vision and Natural Language Processing
